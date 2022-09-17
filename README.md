@@ -1,1 +1,2 @@
-# -lesson_asynchronous_3
+# Асинхронный Python
+Урок 3. А скинешь фоточки?
